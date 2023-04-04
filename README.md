@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Facundo Venturi
+
+Check my portfolio:
+https://fakuventuri.github.io/
+
 <!--
 **fakuventuri/fakuventuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
