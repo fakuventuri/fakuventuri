@@ -1,9 +1,16 @@
-### Hi there 👋
+```javascript
+while (true) {
+    //eat();
+    //sleep();
+    code();
+  }
+```
 
-My name is Facundo Venturi
+## Hi there 👋
 
-Check my portfolio:
-https://fakuventuri.github.io/
+### My name is Facundo Venturi
+
+#### Check my portfolio → [FakuVenturi](https://fakuventuri.github.io/)
 
 <!--
 **fakuventuri/fakuventuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
